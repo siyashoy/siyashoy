@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Siya
+
+I'm a BCA graduate working toward a reporting and data analyst role. I like the unglamorous part of the job: checking the data, making the numbers add up, and laying them out so they are quick to read.
+
+Tools: Excel (PivotTables, XLOOKUP, SUMIFS) | SQL | Power BI | Tableau | Python (basics)
 
 <!--
 **siyashoy/siyashoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
