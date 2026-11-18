@@ -1,10 +1,3 @@
-
-
-<!--
-**siyashoy/siyashoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 💫 About Me:
-
 Hi, I'm Siya<br><br>I'm a BCA graduate working toward a data and business analyst role. I like the unglamorous part of the job: checking the data, making the numbers add up, and laying them out so they are quick to read.<br><br>Tools: Excel (PivotTables, XLOOKUP, SUMIFS) | SQL | Power BI | Tableau | Python (basics)
 
 ## 🌐 Socials:
@@ -27,7 +20,7 @@ Hi, I'm Siya<br><br>I'm a BCA graduate working toward a data and business analys
 
 [![](https://komarev.com/ghpvc/?username=siyashoy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 - 🔭 I’m currently working on ...
